@@ -1,0 +1,40 @@
+{
+    "name": "com.fight4dream.bonerotatetool",
+    "displayName": "Bone Rotate Tool",
+    "description": "Unity default rotate tool will only rotate top level transforms. This tool can also rotate all child transforms.",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "unityRelease": "1f1",
+    "keywords": [
+        "pattern",
+        "spatial",
+        "xr",
+        "vr",
+        "ar",
+        "mr"
+    ],
+    "homepage": "https://github.com/fight4dream/BoneRotateTool",
+    "bugs": {
+        "url": "https://github.com/fight4dream/BoneRotateTool/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@github.com/fight4dream/BoneRotateTool.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "FIGHT4DREAM",
+        "url": "https://github.com/fight4dream"
+    },
+    "dependencies": {
+    },
+    "files": [
+        "*.md",
+        "*.meta",
+        "*.xml",
+        "Editor",
+        "Runtime",
+        "Dependencies",
+        "Tests"
+    ]
+}
